@@ -1,7 +1,7 @@
 app:
     name: Vault
     code: VAULT
-    notify: mmusharaf@ecloudcontrol.com
+    notify: athulgs.com
 
 build:
     version: 0.4
