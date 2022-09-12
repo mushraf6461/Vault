@@ -1,7 +1,7 @@
 app:
     name: Vault
     code: VAULT
-    notify: athulgs.com
+    notify: mmushraf@ecloudcontrol.com
 
 build:
     version: 0.4
@@ -30,6 +30,6 @@ volumes:
     size: 5Gi
 
 properties:
-    revision: 27
+    revision: 28
     ENABLE_AUTO_PASSWORD: True
     
