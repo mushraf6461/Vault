@@ -30,5 +30,5 @@ volumes:
     size: 5Gi
 
 properties:
-    revision: 52
+    revision: 53
     ENABLE_AUTO_PASSWORD: True
